@@ -1,4 +1,4 @@
-# laikengine
+# LAIK ENGINE
 
 This engine is an alternative to Unity, created to address issues such as real-time lighting, splash screen, dark mode, runtime fees (all limited in Unity's free version), Unity's increasing slowness, new/old input systems, built-in/URP compatibility, and image effects/post-processing conflicts.
 
