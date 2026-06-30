@@ -1,4 +1,4 @@
-![](Logo.png)
+![](logo.jpg)
 
 # LAIK ENGINE
 
